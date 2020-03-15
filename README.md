@@ -1,2 +1,2 @@
 # Personal-Portfolio
-Minimalistic personal portfolio
+Pauls - Minimalistic personal portfolio
